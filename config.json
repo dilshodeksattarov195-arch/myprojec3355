@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercave",
+        "uuid": 2029775,
+        "checksum": "uvridf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
